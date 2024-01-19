@@ -10,6 +10,7 @@ eu participo do programa de estágio oferecido pela faculdade atuando na área b
 
 tenho estudado as seguintes tecnologias durante os últimos 7 meses:
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="width:50px">
+<img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" style="width:45px">
+
 
 </h3>
