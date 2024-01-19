@@ -9,6 +9,6 @@ eu participo do programa de estágio oferecido pela faculdade atuando na área b
 <img src="https://github.com/scortuzzi/scortuzzi/assets/142420670/c116a241-7c78-4161-ab00-7886748728e6" style="width:200px">
 
 tenho estudado as seguintes tecnologias durante os últimos 7 meses:
-<img scr="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:10px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:10px">
 
 </h3>
