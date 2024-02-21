@@ -12,7 +12,7 @@ tenho estudado as seguintes tecnologias durante os últimos 7 meses:
 <img src="https://t3.ftcdn.net/jpg/05/27/97/74/360_F_527977463_hcQAYoMqDE17JUYji9J9bVIV6CWMsFuG.png" style="width:80px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="width:50px">
 <img src="https://github.com/scortuzzi/scortuzzi/assets/142420670/0574356a-d7b6-4d47-a290-15dc9af8924d" style="width:40px">
-<img src="https://github.com/scortuzzi/scortuzzi/assets/142420670/25c34f50-7062-416c-ab98-3e73de4fad1e" style="width:50px">
+<img src="https://github.com/scortuzzi/scortuzzi/assets/142420670/25c34f50-7062-416c-ab98-3e73de4fad1e" style="width:35px">
 
 
 
