@@ -2,7 +2,7 @@
 
 <h3 style="display:flex;">
 
-me chamo Pedro, tenho 19 anos e sou
+me chamo Pedro, tenho 20 anos e sou
 um atual estudante da SPtech, cursando ADS
 
 eu participo do programa de estágio oferecido pela faculdade atuando na área backend em java na:
